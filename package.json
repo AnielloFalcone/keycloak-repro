@@ -1,0 +1,11 @@
+{
+  "name": "keycloak-repro",
+  "packageManager": "yarn@4.0.2",
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^5.3.2"
+  },
+  "dependencies": {
+    "keycloak-js": "^22.0.5"
+  }
+}
